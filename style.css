@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+}
+.main-1 h1{
+    color: azure;
+    font-size: 48px;
+    text-align: center;  
+}
+main.main-1 p {
+    text-align: left;
+    color: azure; 
+}
